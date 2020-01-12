@@ -136,8 +136,8 @@ lac_trace_smpl_rate = np.repeat(200,np.size(gry_trace_name_new))
 ##    Configurations related to discrete simulation 
 #######################################################
 time_wait  = 0.1       # time to wait, used for animation only
-sim_tick   = 300    # the number ticks to simulate
-beam_index = 300
+sim_tick   = 1000    # the number ticks to simulate
+beam_index = 1000
 
 #######################################################
 ##    Antenna model 
