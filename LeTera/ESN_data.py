@@ -194,7 +194,7 @@ def plots(data1, data2):
     data2.tolist()
     # print(int(data2[0]))
     # print(data1[2])
-    interval = int(np.ceil(0.66*flytera_cfg.sim_tick))
+    interval = int(np.ceil(0.9*flytera_cfg.sim_tick))
     ang_1 = data1[0][interval:]
     #ang_5 = ang_5/5
     #print(ang_1)
