@@ -28,7 +28,7 @@ def ESN_train(data):
     N=flytera_cfg.sim_tick
     
     rng = np.random.RandomState(42)   
-    traintest_cutoff = int(np.ceil(0.66*N))
+    traintest_cutoff = int(np.ceil(0.9*N))
     train_data, train_data_angle = data[:traintest_cutoff], opt_ang_col[:traintest_cutoff]
     test_data, test_data_angle = data[traintest_cutoff:], opt_ang_col[traintest_cutoff:]
     #print('TEST DAtA ANGLE', test_data_angle)
