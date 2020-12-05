@@ -2,8 +2,10 @@
 FLytera Main File -  flytera.py
 Execute the code using::: python flytera.py
 
-LeTera Main file -
-Execute the code using::: python 
+LeTera Main file - main.py
+Execute the code using::: python main.py
 
-LeBeam Main file -
-Execute the code using::: python 
+LeBeam Main file - main.py
+Execute the code using::: python main.py
+
+
