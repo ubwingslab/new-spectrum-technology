@@ -1,4 +1,4 @@
-# new-spectrum-technology
+# New-Spectrum-Technology
 
 #############---FlyTea---###############
 
