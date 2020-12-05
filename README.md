@@ -1,5 +1,5 @@
 # new-spectrum-technology
-FLytera Main File -  flytera.py
+Flytera Main File -  flytera.py
 Execute the code using::: python flytera.py
 
 LeTera Main file - main.py
